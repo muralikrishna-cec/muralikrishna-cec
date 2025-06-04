@@ -1,9 +1,9 @@
-<h1 align="center">Hi, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi, I'm Murali Krishna 👋</h1>
 
 ### 🧑‍💻 About Me
 
 I'm currently pursuing my **Master of Computer Applications (MCA)** and have completed my **Bachelor of Computer Applications (BCA)**. I'm passionate about software development and constantly learning new technologies to build efficient and impactful solutions.
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muralikrishna-cec&label=Profile%20views&color=0e75b6&style=flat" alt="muralikrishna-cec" /> </p>
 ---
 
 ### 📚 Education
@@ -24,5 +24,5 @@ I'm currently pursuing my **Master of Computer Applications (MCA)** and have com
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=muralikrishna-cec&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muralikrishna-cec&label=Profile%20views&color=0e75b6&style=flat" alt="muralikrishna-cec" /> </p>
+
 
