@@ -6,6 +6,7 @@ I'm currently pursuing my **Master of Computer Applications (MCA)** from APJ Abd
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=muralikrishna-cec&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
+
 ---
 
 ### 📚 Education
