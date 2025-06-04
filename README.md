@@ -1,4 +1,6 @@
-<h1 align="center">Hi, I'm Murali Krishna 👋</h1>
+<h1 align="left">Hi there <coders/>👋</h1>
+
+<p align="left"> I'm Murali Krishna  </p>
 
 ### 🧑‍💻 About Me
 
