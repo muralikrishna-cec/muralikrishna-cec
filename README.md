@@ -1,10 +1,14 @@
-<h1 align="left">Hi there <coders/>👋</h1>
+<h1 align="left">Hi there <coders/> 👋</h1>
 
-<p align="left"> I'm Murali Krishna  </p>
+<p align="left">I'm <strong>Murali Krishna</strong></p>
+
+---
 
 ### 🧑‍💻 About Me
 
-I'm currently pursuing my **Master of Computer Applications (MCA)** from APJ Abdul Kalam Technological University and have completed my **Bachelor of Computer Applications (BCA)** from the University of Kerala. I'm passionate about software development and constantly learning new technologies to build efficient and impactful solutions.
+I'm currently pursuing my **Master of Computer Applications (MCA)** from *APJ Abdul Kalam Technological University* and have completed my **Bachelor of Computer Applications (BCA)** from *University of Kerala*.  
+I'm passionate about software development and always eager to learn new technologies to build efficient and impactful solutions.
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=muralikrishna-cec&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
@@ -30,3 +34,4 @@ I'm currently pursuing my **Master of Computer Applications (MCA)** from APJ Abd
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muralikrishna-cec&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </p>
+
