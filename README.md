@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Hi, I'm [Your Name] 👋</h1>
 
 ### 🧑‍💻 About Me
@@ -16,14 +15,16 @@ I'm currently pursuing my **Master of Computer Applications (MCA)** and have com
 ### 📫 Connect With Me
 
 <!-- Replace the # with your actual links -->
-- LinkedIn: [Your LinkedIn](#)
-- Portfolio: [Your Portfolio](#)
-- Email: [your.email@example.com](mailto:your.email@example.com)
+- LinkedIn: [https://www.linkedin.com/in/murali-krishna-linked-in](#)
+- Email: [mailstomuralikrishna@gmail.com](mailto:mailstomuralikrishna@gmail.com)
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muralikrishna-cec&show_icons=true&theme=default" alt="GitHub Stats" />
 </p>
 
 
+###
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muralikrishna-cec&label=Profile%20views&color=0e75b6&style=flat" alt="muralikrishna-cec" /> </p>
+###
