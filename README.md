@@ -20,9 +20,14 @@ I'm currently pursuing my **Master of Computer Applications (MCA)** and have com
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muralikrishna-cec&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=muralikrishna-cec&theme=merko&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=muralikrishna-cec&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
+
+
+
+![](https://github-readme-stats.vercel.app/api?username=muralikrishna-cec&theme=merko&hide_border=true&include_all_commits=true&count_private=true)<br/>
+
 
 
 ###
